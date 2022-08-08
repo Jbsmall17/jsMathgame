@@ -116,6 +116,7 @@ html{
     -moz-transition:all 0.2s;
     margin:0 auto;
     margin-top:-50px;
+  white-space:nowrap;
 }
 #timeremaining{
   width:152px;
